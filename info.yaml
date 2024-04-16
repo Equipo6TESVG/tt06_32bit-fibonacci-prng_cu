@@ -1,5 +1,5 @@
 # Tiny Tapeout project information (Wokwi project)
-project: 395344363336889345
+project:
   wokwi_id:     394704587372210177       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Cambio de giro de motor CD"      # Project title
   author:       "Equipo6TESVG"      # Your name
